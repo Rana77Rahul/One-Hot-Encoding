@@ -1,2 +1,2 @@
-# One-Hot-Encoding
-This repository hosts a comprehensive toolkit for one-hot encoding, a fundamental technique used in machine learning and data preprocessing tasks. One-hot encoding is essential for converting categorical data into a format that can be provided to machine learning algorithms. 
+# One_Hot_Encoding
+One-Hot Encoding is a popular technique used in data preprocessing, especially in the context of machine learning and data analysis. It is employed to convert categorical data, which represents different classes or categories, into a binary matrix format. 
